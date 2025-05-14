@@ -1,14 +1,19 @@
 ## Hi there 👋 It's me Robin CR
-
-Software Engineer
+I am a software developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://robin005cr.github.io/)                                                 
-- Code everyday
-- Do simple projects
-- Learn shortcuts, explore
-- Always ask why for choosing(framework, libraries, API..)
-- How to reach me (LinkedIn or Mail)
+- 🔭 Here's my [portfolio](https://robin005cr.github.io/)
+- I code C++ in linux (Ubuntu, Apertis).                                          
+- Code everyday.
+- Do simple projects.
+- Learn shortcuts, explore.
+- Always ask why for choosing(framework, libraries, API..).
+- How to reach me (LinkedIn or Mail).
 
+### Keywords
+C++ Application, Multi threading, Design Patterns,
+Embedded bare metal, RTOS,
+ADAS, Autosar, Autonomy, 
+Operating system, Linux System programming
 
 ### Social Presence
  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/robincr/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/robin_c_r/)
