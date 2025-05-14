@@ -1,4 +1,9 @@
 ## Hi there 👋 It's me Robin CR
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/robin005cr)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/robin005cr)
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=robin005cr&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/robin005cr/robin005cr?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+
 I am a software developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://robin005cr.github.io/)
