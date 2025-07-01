@@ -12,7 +12,7 @@ I am a software developer
 - Do simple projects.
 - Learn shortcuts, explore.
 - Always ask why for choosing(framework, libraries, API..).
-- How to reach me ([LinkedIn](https://www.linkedin.com/in/robin-cr/) or [Mail](robinchovallurraju@gmail.com).
+- How to reach me ([LinkedIn](https://www.linkedin.com/in/robin-cr/) or [Send me an email](https://mail.google.com/mail/?view=cm&to=robinchovallurraju@gmail.com).
 
 ### Keywords
 C++ Application, Multi threading, Design Patterns,
