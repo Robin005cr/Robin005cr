@@ -45,7 +45,11 @@ Operating system, Linux System programming
 - [Calendar and Clock](https://github.com/Robin005cr/Calendar-and-Clock)
 - [CPU - GPU Selector](https://github.com/Robin005cr/CPU-GPU_Selector)
 - [Question Paper set creator](https://github.com/Robin005cr/Question_Paper_Set_Creator)
-- [Custom Protocol (Encoder - Decoder)](https://github.com/Robin005cr/Custom_Protocol) 
+- [Custom Protocol (Encoder - Decoder)](https://github.com/Robin005cr/Custom_Protocol)
+
+## Interesting things about me
+- I made the portfolio website with the help of AI(Chatgpt,Claude and github Copilot)
+- I love to explore the opensource projects and libraries, but I haven't contributed anything.
 
 ## Github Status
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robin005cr&theme=dark&show_icons=true&&hide=issues,contribs)
