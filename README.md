@@ -6,7 +6,7 @@
 
 I am a software developer
 - 🔭 Here's my [portfolio](https://robin005cr.github.io/)
-- Programming Languages: C++, Python, Ruby
+- Programming Languages: C++, Python, Ruby, Rust(Beginner)
 - Operating Systems : Ubuntu, Apertis.                                          
 - How to reach me [LinkedIn](https://www.linkedin.com/in/robin-cr/) or [Send me an email](https://mail.google.com/mail/?view=cm&to=robinchovallurraju@gmail.com).
 
@@ -17,7 +17,7 @@ ADAS, Autosar, Autonomy,
 Operating system, Linux System programming,Embedded bare metal
 
 ### Social Presence
- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/robincr/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/robin_c_r_/)
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/robin-cr/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/robin_c_r_/)
 
 
 ### I code in
@@ -44,7 +44,7 @@ Operating system, Linux System programming,Embedded bare metal
 - [Custom Protocol (Encoder - Decoder)](https://github.com/Robin005cr/Custom_Protocol)
 
 ## Interesting things about me
-- I made the portfolio website with the help of AI(Chatgpt,Claude and github Copilot)
+- I made the portfolio website with the help of AI(Chatgpt,Claude and github Copilot).
 - I love to explore the opensource projects and libraries, but I haven't contributed anything.
 
 ## Github Status
