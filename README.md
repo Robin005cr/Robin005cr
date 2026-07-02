@@ -4,8 +4,8 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=robin005cr&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/robin005cr/robin005cr?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-I am a software developer
-- 🔭 Here's my [portfolio](https://robin005cr.github.io/)
+I am a software developer :  [Portfolio](https://robin005cr.github.io/)
+- I love building stuff and interested in exploring new tech. 
 - Programming Languages: C++, Python, Ruby, Rust(Beginner)
 - Operating Systems : Ubuntu, Apertis.                                          
 - How to reach me [LinkedIn](https://www.linkedin.com/in/robin-cr/) or [Send me an email](https://mail.google.com/mail/?view=cm&to=robinchovallurraju@gmail.com).
@@ -21,13 +21,19 @@ Operating system, Linux System programming,Embedded bare metal
 
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 
 
 # Focused Repos
+## Projects
+- [Traffic Sign Recognition](https://github.com/Robin005cr/traffic_sign_recognition)
+- [Calendar and Clock](https://github.com/Robin005cr/Calendar-and-Clock)
+- [CPU - GPU Selector](https://github.com/Robin005cr/CPU-GPU_Selector)
+- [Question Paper set creator](https://github.com/Robin005cr/Question_Paper_Set_Creator)
+- [Custom Protocol (Encoder - Decoder)](https://github.com/Robin005cr/Custom_Protocol)
 
 ## C++ coding
 - [Professional C++](https://github.com/Robin005cr/Professional_CPP)
@@ -36,19 +42,12 @@ Operating system, Linux System programming,Embedded bare metal
 - [Data Structures and Algorithms](https://github.com/Robin005cr/Data_Structures_Algorithms)
 - [100 days C++ challenge](https://github.com/Robin005cr/100_days_cpp_challenge)
 
-## Projects
-- [Traffic Sign Recognition](https://github.com/Robin005cr/traffic_sign_recognition)
-- [Calendar and Clock](https://github.com/Robin005cr/Calendar-and-Clock)
-- [CPU - GPU Selector](https://github.com/Robin005cr/CPU-GPU_Selector)
-- [Question Paper set creator](https://github.com/Robin005cr/Question_Paper_Set_Creator)
-- [Custom Protocol (Encoder - Decoder)](https://github.com/Robin005cr/Custom_Protocol)
+
 
 ## Interesting things about me
 - I made the portfolio website with the help of AI(Chatgpt,Claude and github Copilot).
 - I love to explore the opensource projects and libraries, but I haven't contributed anything.
 
-## Github Status
-![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robin005cr&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ## Leetcode Status
 [![Leetcode Stats](https://leetcard.jacoblin.cool/robinchovallurraju?ext=contest&theme=dark)](https://leetcode.com/robinchovallurraju/)
